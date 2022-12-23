@@ -23,8 +23,6 @@
 Plugin:
 
 ```shell
-asdf plugin add opensearch
-# or
 asdf plugin add opensearch https://github.com/randikabanura/asdf-opensearch.git
 ```
 
