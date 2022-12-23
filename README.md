@@ -53,12 +53,16 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 [Thanks goes to these contributors](https://github.com/randikabanura/asdf-opensearch/graphs/contributors)!
 
-## License
-
-See [LICENSE](LICENSE) © [randikabanura](https://github.com/randikabanura/)
-
-## Developer
+## Author
 Name: [Banura Randika Perera](https://github.com/randikabanura) <br/>
 Linkedin: [randika-banura](https://www.linkedin.com/in/randika-banura/) <br/>
 Email: [randika.banura@gamil.com](mailto:randika.banura@gamil.com) <br/>
 Bsc (Hons) Information Technology specialized in Software Engineering (SLIIT)
+
+## Show your support
+
+Please ⭐️ this repository if this project helped you!
+
+## License
+
+See [LICENSE](LICENSE) © [randikabanura](https://github.com/randikabanura/)
