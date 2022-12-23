@@ -38,7 +38,7 @@ install_version() {
   local install_path="$3"
 
   if [ "${install_type}" != "version" ]; then
-    fail "asdf-${tool_name} supports release installs only"
+    fail "asdf-${tool_name} supports release installs only."
   fi
 
   local platform
